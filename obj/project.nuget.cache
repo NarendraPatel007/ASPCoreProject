@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DdOvWt24sD57cEfVpZDNjupFXH8BkNjXbM4Gsma6QyGu2Zcb5p1cpKmMZ6rcowGN1OIPlV+zc+vIq3eM7Rl6yQ==",
+  "success": true,
+  "projectFilePath": "D:\\2024-2025\\Subject Teacher\\MCA\\Demo\\ASPCoreProject\\ASPCoreProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
