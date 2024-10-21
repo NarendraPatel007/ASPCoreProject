@@ -9,8 +9,10 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
+                echo "Checkout Stage"
                 // Checkout the code from the repository
                 git 'https://github.com/NarendraPatel007/ASPCoreProject.git' // Replace with your repository URL
+                echo "Checkout Complete"
             }
         }
 
